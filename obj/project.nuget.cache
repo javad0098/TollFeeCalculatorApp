@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QkRp+3ggmE+FcQ2ZuKCRLW1cM1tJOhgbT3e99qRHR9hLffTbPAoVuyEicgtJ9eRDsAqVTrSVUYI/BT6Q75HeFw==",
+  "success": true,
+  "projectFilePath": "/Users/javad/Desktop/file/dev/repo/personal/test/NordinBank/TollFeeCalculatorApp/TollFeeCalculatorApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/javad/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/javad/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
